@@ -1,0 +1,26 @@
+body {
+  background-image: url('../pics/moonmoon.jpeg');
+  background-size: cover;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #4b2e83;
+    border-color: #4b2e83;
+}
+
+.navbar-inverse {
+  background-color: #4b2e83;
+  border-color: #4b2e83;
+}
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #d9d9d9;
+}
